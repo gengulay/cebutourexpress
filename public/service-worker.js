@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a842f0ada9f24b27a5902a40c83e49cb.js"
+  "/precache-manifest.0cbd363749576b50d9022a72b6a4c42b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-cebu-tour"});

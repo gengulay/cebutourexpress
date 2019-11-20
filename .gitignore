@@ -12,4 +12,8 @@ logs
 results
 build
 
+public
+
 node_modules
+
+.idea
